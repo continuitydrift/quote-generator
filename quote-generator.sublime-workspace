@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/chada/Documents/GitHub/ladderfall"
+	],
+	"file_history":
+	[
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/test-game/script.js",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/README.md",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/Keebo's codeworld/quote-generator/style.css",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/Keebo's codeworld/dotto-re.md",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/index.html",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/Keebo's codeworld/Quote_Machine/Index.html",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/Keebo's codeworld/quote-generator/index.html",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/test-game/test.html",
+		"/C/Users/chada/Documents/GitHub/Pink-Elephant-Studios.github.io/test-game/style.css",
+		"/C/Users/chada/Documents/GitHub/continuitydrift.github.io/_posts/2022-08-15-katy-trail.md",
+		"/C/Users/chada/Dropbox/drift/drift.txt",
+		"/C/Users/chada/Documents/crypt.txt",
+		"/C/Users/chada/Documents/GitHub/learning_games/writing_game/writing_game.py",
+		"/C/Users/chada/Downloads/L1_S3-en (1).txt",
+		"/C/Users/chada/Downloads/L1_S1-en.txt",
+		"/C/Users/chada/Downloads/L1_S7-en.txt",
+		"/C/Users/chada/Documents/udemy/UPDATED_NLP_COURSE/06-Deep-Learning/melville-moby_dick.txt",
+		"/C/Users/chada/Downloads/L1_S6-en.txt",
+		"/C/Users/chada/Documents/airlock/working/keys-1.md",
+		"/C/Users/chada/Documents/airlock/working/keys-stories.json",
+		"/C/Users/chada/Downloads/L1_S5-en.txt",
+		"/C/Users/chada/Downloads/L1_S4-en.txt",
+		"/C/Users/chada/Dropbox/rpgs/lio/shadowrun_campaign.txt",
+		"/C/Users/chada/Dropbox/notes_for_Shadowrun.txt",
+		"/C/Users/chada/Dropbox/meta_game.txt",
+		"/C/Users/chada/Desktop/mom.txt",
+		"/C/Users/chada/Desktop/There were four runes encyphered into walls",
+		"/C/Users/chada/Dropbox/words/open_letters/Death_is_as_real_as_life",
+		"/C/Users/chada/Dropbox/words/lsl4nr38je/kansas/6-11-2021-rain",
+		"/C/Users/chada/Dropbox/words/lsl4nr38je/kansas/06-06-2021-unquiet-worms.md",
+		"/C/Users/chada/Dropbox/words/stories/06-05-2021-meme_tattoo.md",
+		"/C/Users/chada/Dropbox/words/lsl4nr38je/kansas/05-02-2021-wellllllll-f.md",
+		"/C/Users/chada/Dropbox/words/reviews/coding_democracy",
+		"/C/Users/chada/Dropbox/words/reviews/coding-democracy.txt",
+		"/C/Users/chada/Dropbox/telos/scroll.txt",
+		"/C/Users/chada/Documents/GitHub/continuitydrift.github.io/_posts/2021-02-27-crypto.md",
+		"/C/Users/chada/Dropbox/words/lsl4nr38je/kansas/05-02-2020-oracle.txt",
+		"/C/Users/chada/Dropbox/drift/meta.md",
+		"/E/afterglow/horatio/timestamps.txt",
+		"/C/Users/chada/Documents/social_collaboration.png",
+		"/C/Users/chada/Dropbox/telos/scrolls/drift.txt",
+		"/C/Users/chada/Dropbox/drift/f_yeah.md",
+		"/C/Users/chada/Documents/drift/start.py",
+		"/C/Users/chada/Documents/dasoihasg.md",
+		"/C/Users/chada/Dropbox/adventures_in_cardboard/Monsters are Heroes.txt",
+		"/C/Users/chada/Documents/udemy/UPDATED_NLP_COURSE/moviereviews/neg/cv592_23391.txt",
+		"/C/Users/chada/Downloads/default.html",
+		"/C/Users/chada/Documents/assets/vendor/php-email-form/validate.js",
+		"/C/Users/chada/Documents/GitHub/continuitydrift.github.io/_config.yml",
+		"/C/Users/chada/Documents/GitHub/continuitydrift.github.io/test/_config.yml",
+		"/C/Users/chada/Desktop/24-requesting-files-with-http-ftp.html",
+		"/C/Users/chada/Documents/GitHub/continuitydrift.github.io/_data/ui-text.yml",
+		"/F/moon_code.py",
+		"/F/code.py",
+		"/C/Users/chada/Dropbox/new_language/necessities.html",
+		"/C/Users/chada/Dropbox/new_language/readme",
+		"/C/Users/chada/Dropbox/words/open_letters/library_fines.txt",
+		"/C/Users/chada/Dropbox/drift/sandbox/snake.py",
+		"/C/Users/chada/Dropbox/words/lsl4nr38je/kansas/08-27-2020-clumbsy",
+		"/C/Users/chada/Dropbox/new_language/skill_neccessities.html",
+		"/C/Users/chada/Dropbox/adventures_in_cardboard/humblewood_game_desc.txt",
+		"/C/Users/chada/Dropbox/rpgs/Sci_Fi_Cypher_Saturdays.txt",
+		"/C/Users/chada/Dropbox/thoughts/internal.txt",
+		"/C/Users/chada/Dropbox/words/lsl4nr38je/kansas/2020/08-00-2020-meta-games.txt",
+		"/C/Users/chada/Dropbox/new_language/Go-Cart",
+		"/C/Users/chada/Dropbox/adventures_in_cardboard/game_descriptions.txt",
+		"/C/Users/chada/Dropbox/words/stories/turtle/turtle_draft.txt",
+		"/C/Users/chada/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/chada/Documents/local_library/Cypher System - Revised Edition.pdf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 103.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/C/Users/chada/Documents/GitHub/ladderfall/project.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
